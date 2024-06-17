@@ -1,0 +1,25 @@
+\documentclass{article}
+
+\usepackage{booktabs}
+
+\begin{document}
+
+\noindent This is long long line of text above the table. The table we are referring to Table~\ref{tab:example_table}.
+
+\begin{table}[h]
+  \centering
+  \caption{An example table that looks good}\label{tab:example_table}
+  \begin{tabular}{l c r}
+    \toprule
+    Heading 1 & Heading 2 & Heading 3 \\
+    \midrule
+    1 & 2 & 3 \\
+    4 & 5 & 6 \\
+    7 & 8 & 9 \\
+    \bottomrule
+  \end{tabular}
+\end{table}
+
+\noindent This is a line of text below the table. This is also a long line of text to ensure that we go over a single line.
+
+\end{document}
