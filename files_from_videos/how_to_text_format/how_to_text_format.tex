@@ -1,0 +1,36 @@
+\documentclass{article}
+
+\usepackage{enumerate}
+\usepackage{siunitx}
+
+\begin{document}
+
+This is an example of a bullet list.
+\begin{itemize}
+  \item Hello, world!
+  \item Hello, \textbf{world}!
+  \item Hello, \textit{world}!
+  \item Hello, \texttt{world}! The python package used was \texttt{matplotliblib.pyplot} and I stored the data in the location \texttt{my\_directory}.
+\end{itemize}
+
+This is now a numbered list.
+
+\begin{enumerate}[a - ]
+  \item Hello, world!
+  \item Hello, \textbf{world}!
+  \item Hello, \textit{world}!
+  \item Hello, \texttt{world}! The python package used was \texttt{matplotliblib.pyplot} and I stored the data in the location \texttt{my\_directory}.
+\end{enumerate}
+
+The equation of a straight line is $y = mx + b$. If I would like to typeset a dollar sign is can do \$. The speed of light is given by:
+\begin{itemize}
+  \item $c = 3.00 \times 10^{8}$ m/s.
+  \item $c = $~\qty{3.00e8}{\meter\per\second}.
+  \item Gravity is often used within the range of \qtyrange[range-units = single]{9.8}{10.2}{\meter\per\second\squared}.
+\end{itemize}
+
+\begin{enumerate}[{Random} a)]
+  \item Let say "this is a quote", but that is incorrect, ``This is actually a quote''.
+  \item This is a hyphen, -, this is an en-dash, --, and this is an em-dash, ---.
+\end{enumerate}
+\end{document}
