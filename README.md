@@ -7,7 +7,8 @@ Your go to for LaTeX help
 - [how to cite](https://youtu.be/gbTStZ6yuTA)
 - [how to table](https://youtu.be/wUQEl8nTp7k)
 # Usefull Links
-- [Booktabs doc](https://ctan.org/pkg/booktabs?lang=en)
-- [natbib doc](https://ctan.org/pkg/natbib?lang=en)
-- [enumerate doc](https://ctan.org/pkg/enumerate?lang=en)
-- [siunitx doc](https://ctan.org/pkg/siunitx?lang=en) refer to the user manual option
+- [Stellenbosch University LaTeX](https://ctan.org/pkg/stellenbosch-2?lang=en) 
+- [Booktabs doc](https://ctan.org/pkg/booktabs?lang=en) - for tables
+- [natbib doc](https://ctan.org/pkg/natbib?lang=en) - for citations
+- [enumerate doc](https://ctan.org/pkg/enumerate?lang=en) - for lists
+- [siunitx doc](https://ctan.org/pkg/siunitx?lang=en) - for units, (refer to the user manual option)
