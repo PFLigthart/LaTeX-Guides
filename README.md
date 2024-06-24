@@ -5,7 +5,7 @@ Your go-to for LaTeX help
 - [how to install a](https://youtu.be/qsoW7lvq9wc) - [Miktex Tex distribution](https://miktex.org/download) and [TexStudio editor](https://www.texstudio.org/)
 - [how to setup doc](https://youtu.be/UzEF_T99F34)
 - [how to text format](https://youtu.be/SITebfeYMac)
-- [how to cite](https://youtu.be/gbTStZ6yuTA) - Sound problems, currently working on update
+- [how to cite](https://youtu.be/zF4AP5uMYNw) - Sound problems, currently working on update
 - [how to table](https://youtu.be/wUQEl8nTp7k) - Sound problems, currently working on update
 # Usefull Links
 - [Stellenbosch University LaTeX](https://ctan.org/pkg/stellenbosch-2?lang=en) 
