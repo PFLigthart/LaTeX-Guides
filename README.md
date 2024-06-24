@@ -6,7 +6,7 @@ Your go-to for LaTeX help
 - [how to setup doc](https://youtu.be/UzEF_T99F34)
 - [how to text format](https://youtu.be/SITebfeYMac)
 - [how to cite](https://youtu.be/zF4AP5uMYNw) - Makes use of [stb-bib](https://mirror.ufs.ac.za/ctan/macros/latex/contrib/stellenbosch-2/doc/stb-bib.pdf) package.
-- [how to table](https://youtu.be/Ri3yoK8Z_Lw) - Makes use of [booktabs](https://ctan.org/pkg/booktabs?lang=en) package.
+- [how to table](https://youtu.be/Jlk-7GaVKu0) - Makes use of [booktabs](https://ctan.org/pkg/booktabs?lang=en) package.
 # Usefull Links
 - [Stellenbosch University LaTeX](https://ctan.org/pkg/stellenbosch-2?lang=en) 
 - [Booktabs doc](https://ctan.org/pkg/booktabs?lang=en) - for tables
