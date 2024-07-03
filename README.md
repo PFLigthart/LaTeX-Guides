@@ -11,6 +11,7 @@ Your go-to for LaTeX help
 - [how to cite](https://youtu.be/zF4AP5uMYNw) - Makes use of [stb-bib](https://mirror.ufs.ac.za/ctan/macros/latex/contrib/stellenbosch-2/doc/stb-bib.pdf) package.
 - [how to table](https://youtu.be/Jlk-7GaVKu0) - Makes use of [booktabs](https://ctan.org/pkg/booktabs?lang=en) package.
 - [how to figure](https://youtu.be/wL4NBmfaltA) - Makes use of [graphicx](https://ctan.org/pkg/graphicx?lang=en) and [subcaption](https://ctan.org/pkg/subcaption?lang=en) packages.
+- [how to make diagram](https://youtu.be/CzmfeG7FfBc) - Makes use of [tikz](https://ctan.org/pkg/pgf?lang=en) package. I recommend copying the code from `files_from_videos -> how_to_make_diagram -> how_to_make_diagram.tex` file above and skipping around in the video to see how the diagram is made. (Probably do not need to watch the whole video)
 # Usefull Links
 - [Stellenbosch University LaTeX](https://ctan.org/pkg/stellenbosch-2?lang=en) 
 - [Booktabs doc](https://ctan.org/pkg/booktabs?lang=en) - for tables
